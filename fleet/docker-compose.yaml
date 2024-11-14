@@ -1,6 +1,6 @@
 services:
   fleet-server:
-    image: docker.elastic.co/beats/elastic-agent:8.4.3
+    image: docker.elastic.co/beats/elastic-agent:8.16.0
     container_name: fleet-server
     restart: always
     volumes:
