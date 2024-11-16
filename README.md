@@ -1,5 +1,5 @@
 # elastic
-Elastic stack detection lab setup
+Elastic stack detection lab setup.
 Follow the Medium blog(s) to setup: [Medium blogpost](https://medium.com/@bastradamus/how-to-create-a-detection-engineering-lab-part-1-8dacc52001b5
 )
 
