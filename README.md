@@ -1,6 +1,6 @@
 # elastic
 Elastic stack detection lab setup.
-Follow the Medium blog(s) to setup: [Medium blogpost](https://medium.com/@bastradamus/how-to-create-a-detection-engineering-lab-part-1-8dacc52001b5
+Follow the Medium blogs to setup the environment: [Medium blogpost](https://medium.com/@bastradamus/how-to-create-a-detection-engineering-lab-part-1-8dacc52001b5
 )
 
 ## Credits
