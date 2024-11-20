@@ -1,5 +1,5 @@
 # elastic
-Elastic stack detection lab setup.
+Elastic stack detection lab setup with Docker.
 Follow the Medium blog posts to setup the environment: 
 1. [How to create a Detection Engineering Lab — Part 1](https://medium.com/@bastradamus/how-to-create-a-detection-engineering-lab-part-1-8dacc52001b5)
 2. [How to create a Detection Engineering Lab — Part 2](https://medium.com/@bastradamus/how-to-create-a-detection-engineering-lab-part-2-3bdbb2c873d6)
