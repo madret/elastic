@@ -5,4 +5,4 @@ Follow the Medium blog posts to setup the environment:
 2. [How to create a Detection Engineering Lab — Part 2](https://medium.com/@bastradamus/how-to-create-a-detection-engineering-lab-part-2-3bdbb2c873d6)
 
 ## Credits
-I've modified the configuration files from the repository of the book [Practical Threat Detection Engineering](https://www.packtpub.com/en-us/product/practical-threat-detection-engineering-9781801076715), published by Packt.
+I've modified configuration files from the repository of the book [Practical Threat Detection Engineering](https://www.packtpub.com/en-us/product/practical-threat-detection-engineering-9781801076715), published by Packt.
